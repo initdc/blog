@@ -1,0 +1,4 @@
+languageCode = "zh-cn"
+title = "人生苦短 我用golang"
+theme = "ananke"
+staticDir = ["static"]
